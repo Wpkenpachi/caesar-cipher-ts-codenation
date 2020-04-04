@@ -3,7 +3,6 @@ import { CaesarCipher } from "./caesar-cipher";
 import sha1 from "sha1";
 import axios from "axios";
 import FormData from "form-data";
-// const FormData = require("form-data");
 import * as dotenv from "dotenv-safe";
 dotenv.config();
 
